@@ -9,6 +9,8 @@ dj_rest_auth
 django-cors-headers
 gevent
 boto3
+django-storages
+awscli
 
 celery
 redis
@@ -24,3 +26,4 @@ gunicorn
 uvicorn
 
 psycopg2-binary
+
